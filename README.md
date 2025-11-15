@@ -14,7 +14,7 @@
 <img align='right' src="https://github.com/demartini/demartini/blob/master/code.gif" width="230">
 <p><em>Coach 3000 of people about solidity<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/soheil-vafaei?label=follow&style=social)](https://github.com/soheil-vafaei)
+[![GitHub Thaiane](https://img.shields.io/github/followers/soheilxcrypto?label=follow&style=social)](https://github.com/soheilxcrypto)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
