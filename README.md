@@ -21,7 +21,7 @@
 
 ```javascript
 const thai = {
-  pronouns: "her",
+  pronouns: "him",
   code: [Javascript, Solidity, HTML, CSS],
   tools: [React, Next, Node, Hardhat, Foundry, Ganache],
   architecture: ["Security", "Audit Contract", "design Marketing System"],
